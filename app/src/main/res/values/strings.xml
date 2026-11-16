@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BudgetFlow</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_budgets">Budgets</string>
+    <string name="nav_insights">Insights</string>
+    <string name="nav_bills">Bills</string>
+    <string name="nav_spend">Log Spend</string>
+    <string name="nav_transactions">All Transactions</string>
+    <string name="nav_scanner">Scan Receipt</string>
+    <string name="nav_shopping_lists">Shopping Lists</string>
+    <string name="nav_categories">Categories</string>
+    <string name="nav_forecast">Budget Forecast</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Biometric & Lock Screen -->
+    <string name="biometric_unlock_title">Unlock BudgetFlow</string>
+    <string name="biometric_unlock_subtitle">Verify your identity to view your budgets</string>
+    <string name="lock_screen_title">BudgetFlow Locked</string>
+    <string name="lock_screen_unlock">Unlock</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_bill_reminders">Bill Reminders</string>
+    <string name="bill_reminder_title">%1$d bill(s) due or overdue</string>
+</resources>
